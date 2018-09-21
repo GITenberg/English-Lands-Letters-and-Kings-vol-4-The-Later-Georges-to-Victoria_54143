@@ -1,5 +1,8 @@
 _repo: English-Lands-Letters-and-Kings-vol-4-The-Later-Georges-to-Victoria_54143
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54143-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, Donald Grant
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7659
     wikipedia: http://en.wikipedia.org/wiki/Donald_Grant_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54143#English-Lands-Letters-and-Kings-vol-4-The-Later-Georges-to-Victoria
 gutenberg_issued: '2017-02-09'
 gutenberg_type: Text
 identifiers:
